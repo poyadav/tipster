@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=https://gyazo.com/a87ed628e185d66a0ff2f02a00d3d7de />
+<img src=https://i.imgur.com/2KDbqPk.gifv/>
 
 GIF created with [LiceCap](http://www.gyazo.com/).
 
