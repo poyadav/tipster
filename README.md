@@ -4,7 +4,7 @@
 
 Submitted by: **Pooja Yadav**
 
-Time spent: **3.5** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -27,9 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=https://gyazo.com/a87ed628e185d66a0ff2f02a00d3d7de />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](http://www.gyazo.com/).
 
 ## Notes
 
